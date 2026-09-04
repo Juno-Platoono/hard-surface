@@ -6,6 +6,8 @@ body, html {
 	font-size: 13px;
 	background: black;
 	background-image: url('images/black.png');
+	background-repeat: no-repeat;
+	background-position: top left;
 	color: lime;
 	font-family: 'Source Code Pro', monospace;
 	font-size: 12px;
@@ -42,8 +44,8 @@ img {
 }
 
 .main {
-	height: 426px;
-	width: 559px;
+	height: 768px;
+	width: 1366px;
 
 	position: relative;
 }
